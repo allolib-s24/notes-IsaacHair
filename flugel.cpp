@@ -152,14 +152,6 @@ class SineEnv : public SynthVoice {
 			//Overtone parameters here are unused but necessary based on the format of the notelists
 		    createInternalTriggerParameter("amplitude", 0.3, 0.0, 1.0);
 		    createInternalTriggerParameter("frequency", 60, 20, 5000);
-		    createInternalTriggerParameter("over1", 1, 0, 1);
-		    createInternalTriggerParameter("over2", 1, 0, 1);
-		    createInternalTriggerParameter("over3", 1, 0, 1);
-		    createInternalTriggerParameter("over4", 1, 0, 1);
-		    createInternalTriggerParameter("over5", 1, 0, 1);
-		    createInternalTriggerParameter("over6", 1, 0, 1);
-		    createInternalTriggerParameter("over7", 1, 0, 1);
-		    createInternalTriggerParameter("over8", 1, 0, 1);
 		    createInternalTriggerParameter("attackTime", 0.05, 0, 3.0);
 		    createInternalTriggerParameter("releaseTime", 0.05, 0, 3.0);
 		    createInternalTriggerParameter("pan", 0.0, -1.0, 1.0);
