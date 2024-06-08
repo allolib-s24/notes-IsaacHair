@@ -17,7 +17,7 @@
   - Sampled real flugelhorn sound
   - Interpolated between overtone series for high notes and for low notes
   - Generated "breathy" effect using filtered white noise
-  - Separate envelopes for breathy sound, lower overtones, higher overtones; hope is to make the attacks more realistic-sounding
+  - Separate envelopes for breathy sound, lower overtones, higher overtones; hope is to make the attacks sound more realistic
   - Vibrato with cyclic envelopes for speed and depth
 
 ## Future Work
