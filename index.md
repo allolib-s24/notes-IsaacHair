@@ -13,7 +13,6 @@
   3. Breathy Sound: https://youtu.be/nCLLUwBSFPU
 
 ## High Level Description
-This repo is supposed to provide a decent flugelhorn emulator. Highlights include
   - 15 overtones
   - Sampled real flugelhorn sound
   - Interpolated between overtone series for high notes and for low notes
