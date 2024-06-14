@@ -1,4 +1,5 @@
 # Flugelhorn synthesis
+My goal in this project was to make a realistic flugelhorn emulator, or at least something that sounded better than what Musescore provides. I was initially very ambitious and planned to add support for a variety of musical effects as well. These included crescendo/decrescendo, rallentando/accelerando, trills, etc. The final result is more pedestrian, but I'm still satisfied with how it sounds.
 
 ## Usage
   1. Build allolib_playground as per the given instructions
